@@ -8,7 +8,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 ## Project Created & Maintained By
 
 ### 1. Kunal Jain
-**Machine Learning Admirer #MachineLearning #DeepLearning #COVID-19  #Python **
+**Machine Learning Admirer #MachineLearning #DeepLearning #COVID-19 #Python**
 
 <a href="https://www.linkedin.com/in/kunal-jain-9bb2a7184/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/profile.php?id=100014791484949"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
